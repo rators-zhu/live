@@ -26,7 +26,7 @@ https://live.goodiptv.club/api/bestv.php?id=cctv12hd8m/8000000
 #EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://live.fanmingming.com/tv/CCTV13.png" group-title="央视",CCTV-13 新闻
 https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8
 #EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://live.fanmingming.com/tv/CCTV14.png" group-title="央视",CCTV-14 少儿
-http://bkhlsliveali-cdn.ysp.cctv.cn/54C8C6C39AD0F31F6B14EDC0C6C8E07A52330E6C19C1234794BAD870305A46A6C52C8D181E88852CF35DC391B28F91DD578CC57004213BE24B2798B1F7A64A7BB2CDFBF069A8A8F06940A1A31C75D6AD96694CB215A73BE9E74970AA74538E148A6BBF4AD5ADF4423D52C73A434693E3AAB2C43B8C8B5A19852498BCD1BA5F38/2000204401.m3u8
+http://221.213.43.82:8888/newlive/live/hls/16/live.m3u8
 #EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://live.fanmingming.com/tv/CCTV15.png" group-title="央视",CCTV-15 音乐
 https://live.goodiptv.club/api/bestv.php?id=cctv15hd8m/8000000
 #EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://live.fanmingming.com/tv/CCTV16.png" group-title="央视",CCTV-16 奥林匹克
@@ -34,7 +34,7 @@ https://live.goodiptv.club/api/bestv.php?id=cctv16hd8m/8000000
 #EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://live.fanmingming.com/tv/CCTV17.png" group-title="央视",CCTV-17 农业农村
 https://live.goodiptv.club/api/bestv.php?id=cctv17hd8m/8000000
 #EXTINF:-1 tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="https://live.fanmingming.com/tv/山东卫视.png" group-title="卫视",山东卫视
-http://hlsliveali-cdn.ysp.cctv.cn/071934DCB4F9C4222A1B5E1B6B8ECCF9983EAED1AC43A450E3C0B615AF809873549F41ED221320495DD17D2CA60BF9946F4F1BF2DFE8861D4A5463F4A43CD3E91CF89E42CB0DCCC4AB6DB4904DBA1CB55E72F414E4C140854CDFDC22A79AD77EDC9B5D47D01C73BE8C20FAFD699C06F62CDA6FB520DC8E39EAE01419FD6E3F05/2000294801.m3u8
+https://live.goodiptv.club/api/bestv.php?id=sdws8m/8000000
 #EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://live.fanmingming.com/tv/北京卫视.png" group-title="卫视",北京卫视
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225796/index.m3u8
 #EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://live.fanmingming.com/tv/东方卫视.png" group-title="卫视",东方卫视
